@@ -5,4 +5,6 @@ bower_components/
 
 npm-debug.log
 
+platforms/
+
 .DS_Store
